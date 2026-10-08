@@ -1,4 +1,3 @@
-```markdown
 # VectorDB — C++ Vector Database
 
 A C++ vector database with a web interface for vector similarity search, HNSW, KD-Tree, Brute Force search, document embeddings, and RAG using Ollama.
@@ -262,8 +261,3 @@ Original repository:
 https://github.com/perryvegehan/Your-OWN-AI
 
 The original project is released under the **MIT License**.
-```
-
-For the README
-
-- :chatgpt-content-reference{index="0"}
